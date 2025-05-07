@@ -1,16 +1,29 @@
 ## Hi there 👋
+# 👋 Hi, I'm Irfan Fakir
 
-<!--
-**Jimmy-alt-code/Jimmy-alt-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd Year B.Tech student in Artificial Intelligence & Data Science  
+🧠 Passionate about building intelligent AI agents using LLMs  
+💻 Currently mastering: Python, LangChain, HuggingFace, OpenAI API  
+📚 Learning Deep Learning, NLP, and Reinforcement Learning  
+🚀 My mission: To outshine with real AI projects and stand out from the crowd  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- Programming: `Python`, `NumPy`, `Pandas`, `Matplotlib`
+- ML/DL: `Scikit-learn`, `PyTorch`, `TensorFlow`, `Keras`
+- LLMs & Agents: `LangChain`, `HuggingFace`, `OpenAI`, `CrewAI`, `AutoGen`
+- Tools: `Git`, `Jupyter`, `VS Code`, `Colab`, `FastAPI`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 AI Projects I'm Building
+- 🧠 Building a LangChain-based RAG bot  
+- 🤖 Developing a personal AI Assistant powered by GPT-4  
+- 📄 Experimenting with a PDF Question-Answer Chatbot  
+- 📚 Learning CrewAI to build a multi-agent research assistant  
+➡️ Stay tuned – I’ll be uploading these soon!
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jimmy-alt-code&show_icons=true&theme=radical)
+
+## 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/irfan-fakir-393bb8330)
+- 📧 irfanfakir52@gmail.com
+
